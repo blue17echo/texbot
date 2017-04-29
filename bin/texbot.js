@@ -3,7 +3,7 @@ var request = require('request');
 var url = 'https://quicklatex.com/latex3.f/'
 
 var settings = {
-	token: '<token>',
+	token: 'xoxb-177289265846-oOBfqid6tbvAuoX8FqogqKjE',
 	name: 'texbot'
 }
 
